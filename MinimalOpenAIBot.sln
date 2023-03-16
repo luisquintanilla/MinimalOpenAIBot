@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalOpenAIBot", "MinimalOpenAIBot\MinimalOpenAIBot.csproj", "{9BF6125A-18F6-45D3-BE02-7CA1556ED72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF6125A-18F6-45D3-BE02-7CA1556ED72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF6125A-18F6-45D3-BE02-7CA1556ED72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF6125A-18F6-45D3-BE02-7CA1556ED72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF6125A-18F6-45D3-BE02-7CA1556ED72A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C2F83A7-2AED-478E-8E07-705F5E807D95}
+	EndGlobalSection
+EndGlobal
