@@ -2,6 +2,8 @@
 
 Sample Bot built with Bot Framework, ASP.NET Minimal APIs, and Azure OpenAI Service
 
+![image](https://user-images.githubusercontent.com/46974588/227020840-0ccf4378-a237-42fd-87f2-916f0aad7920.png)
+
 ## Prerequisites
 
 - [Azure Subscription](https://aka.ms/free)
@@ -26,4 +28,5 @@ Sample Bot built with Bot Framework, ASP.NET Minimal APIs, and Azure OpenAI Serv
     - **Visual Studio:** Open Solution and press <kbd>F5</kbd>
     - **In the CLI:** Navigate to the MinimalOpenAIBot project and enter the following into the command line: `dotnet run`
   
-1. Start Bot Framework Emulator and enter the URL of your bot endpoint.
+1. Start Bot Framework Emulator and enter the URL of your bot endpoint (i.e. *http://localhost:<PORT>/api/messages*).
+1. Start chatting with your bot.
